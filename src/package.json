@@ -1,0 +1,16 @@
+{
+  "name": "scribbletune-tone-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "scribbletune": "^5.1.0",
+    "tone": "^14.8.49"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
